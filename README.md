@@ -4,9 +4,7 @@ The repository contains iPython notebooks with all the supporting files to run t
 
 1. Python libraries needed to run the notebooks:
    * glob, h5py, numpy, pylab, scipy, functools
-   * openfermion
-   * openfermionprojectq
-   * openfermionpsi4 
+   * openfermion, openfermionprojectq, openfermionpsi4 [Github repository (https://github.com/quantumlib/OpenFermion)
    * projectq
 
 2. Notebooks:
